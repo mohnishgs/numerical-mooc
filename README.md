@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 #Practical Numerical Methods with Python
 
 This project started in 2014 as a multi-campus, connected course (plus MOOC) on numerical methods for science and engineering. 
 
 In Fall 2015, the second run of the connected courses, we have these instructors participating:
+=======
+﻿#Practical Numerical Methods with Python
+###making an edit
+A multi-campus, connected course (plus MOOC) on numerical methods for differential equations in science and engineering. Collaboratively developed by:
+>>>>>>> refs/remotes/origin/master
 - [Lorena A. Barba](http://lorenabarba.com), George Washington University, USA
 - [Ian Hawke](http://www.southampton.ac.uk/maths/about/staff/ih3.page), Southampton University, UK
 - [Bernard Knaepen](http://depphys.ulb.ac.be/bknaepen/), Université Libre de Bruxelles, Belgium
